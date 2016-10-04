@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId "com.feedhenry.helloworld"
         minSdkVersion 10
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
         jackOptions {
